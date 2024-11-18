@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming, Coding, Football. 
 - 🌱 I’m currently learning Web Dev and Cyber Security
 - 💞️ I’m looking to collaborate on AI, Football Tourney.
-- 📫 How to reach me khandokaranik1@gmail.com
+- 📫 How to reach me wahiduzzamananik782@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: You gotta find it out yourself. 
 
