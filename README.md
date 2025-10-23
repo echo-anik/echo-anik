@@ -14,18 +14,14 @@
 
 ## 🚀 About Me
 
-```javascript
-const anik = {
-    location: "Dhaka, Bangladesh",
-    currentRole: "Web Developer @ TechKnight Solution",
-    education: "B.Sc. Computer Science @ BRAC University",
-    interests: ["Full Stack Development", "Machine Learning", "IoT Security"],
-    currentFocus: "ML-Based IDS for Industrial IoT (Thesis Project)",
-    lifePhilosophy: "Code, Learn, Build, Repeat 🔄"
-};
-```
-
 🔭 I'm a **Full Stack Developer** and **ML Researcher** with **3+ years** of experience building scalable web applications and intelligent systems.
+
+📍 **Location:** Dhaka, Bangladesh  
+💼 **Current Role:** Web Developer @ TechKnight Solution  
+🎓 **Education:** B.Sc. Computer Science @ BRAC University  
+🎯 **Interests:** Full Stack Development | Machine Learning | IoT Security  
+🔬 **Current Focus:** ML-Based IDS for Industrial IoT (Thesis Project)  
+💭 **Philosophy:** Code, Learn, Build, Repeat 🔄
 
 💡 Currently working on my thesis: **ML-Based Intrusion Detection System for Industrial IoT** on resource-constrained devices.
 
@@ -142,14 +138,10 @@ const anik = {
 
 ## 🎯 Current Focus
 
-```python
-current_goals = {
-    "thesis": "Completing ML-Based IDS for IIoT research",
-    "learning": ["Advanced ML algorithms", "IoT Security", "Cloud Computing"],
-    "building": "Scalable full-stack applications",
-    "contributing": "Open source projects in ML and web development"
-}
-```
+🔬 **Thesis Project:** Completing ML-Based IDS for IIoT research  
+📚 **Learning:** Advanced ML algorithms, IoT Security, Cloud Computing  
+🚀 **Building:** Scalable full-stack applications  
+🤝 **Contributing:** Open source projects in ML and web development
 
 ---
 
