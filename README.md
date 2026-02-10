@@ -12,22 +12,22 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🔭 I'm a **Full Stack Developer** and **ML Researcher** with **2+ years** of experience building scalable web applications and intelligent systems.
+ I'm a **Full Stack Developer** and **ML Researcher** with **2+ years** of experience building scalable web applications and intelligent systems.
 
-📍 **Location:** Dhaka, Bangladesh  
-💼 **Current Role:** Web Developer @ TechKnight Solution  
-🎓 **Education:** B.Sc. Computer Science @ BRAC University  
-🎯 **Interests:** Full Stack Development | Machine Learning | IoT Security  
-🔬 **Current Focus:** ML-Based IDS for Industrial IoT (Thesis Project)  
-💭 **Philosophy:** Code, Learn, Build, Repeat 🔄
+ **Location:** Dhaka, Bangladesh  
+ **Current Role:** Web Developer @ TechKnight Solution  
+ **Education:** B.Sc. Computer Science @ BRAC University  
+ **Interests:** Full Stack Development | Machine Learning | IoT Security  
+ **Current Focus:** ML-Based IDS for Industrial IoT (Thesis Project)  
+ **Philosophy:** 𝔞𝔲𝔡𝔢𝔫𝔱𝔢𝔰 𝔣𝔬𝔯𝔱𝔲𝔫𝔞 𝔦𝔲𝔳𝔞𝔱 
 
-💡 Currently working on my thesis: **ML-Based Intrusion Detection System for Industrial IoT** on resource-constrained devices.
+ Completed my thesis: **ML-Based Intrusion Detection System for Industrial IoT** on resource-constrained devices.
 
-📊 Published research on **Depression Detection in Students** achieving **94.95% accuracy** using XGBoost.
+ Published research on **Depression Detection in Students** achieving **94.95% accuracy** using XGBoost.
 
-🌐 Live Project: [**Doctors Information Portal**](https://doctorsinformation.com.bd/) - Healthcare platform serving users nationwide.
+ Live Project: [**Doctors Information Portal**](https://doctorsinformation.com.bd/) - Healthcare platform serving users nationwide.
 
 ---
 
@@ -37,8 +37,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,7 +49,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Machine Learning & AI
@@ -64,7 +61,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -82,31 +78,31 @@
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
-### 🏥 [Doctors Information Portal](https://doctorsinformation.com.bd/) ✅ LIVE
+###  [Doctors Information Portal](https://doctorsinformation.com.bd/) | LIVE
 > Healthcare platform connecting patients with medical professionals across Bangladesh
 - **Tech Stack:** Laravel, PHP, MySQL, Bootstrap
 - **Features:** Advanced search, appointment booking, doctor profiles
 - **Impact:** Serving users nationwide with 99.9% uptime
 
-### 🌍 TravelEase - Tourism Platform 🚧
+###  TravelEase - Tourism Platform 
 > Intelligent tourism platform with ML-powered recommendations
 - **Tech Stack:** Node.js, Angular, MongoDB, ML Algorithms
 - **Features:** Smart recommendations, dynamic pricing, real-time booking
 - **Innovation:** ML-based personalized travel suggestions
 
-### 📚 Bookwork E-Store ✅
+###  Bookwork E-Store 
 > Full-featured online bookstore with comprehensive e-commerce functionality
 - **Tech Stack:** Laravel, PHP, MySQL, Bootstrap
 - **Features:** Complete shopping cart, inventory management, secure payments
 
-### 🔒 ML-Based IDS for IIoT 🔬
+###  ML-Based IDS for IIoT 
 > Thesis: Intrusion Detection System for Industrial IoT devices
 - **Tech Stack:** Python, TensorFlow, Scikit-learn
 - **Focus:** Edge computing, real-time threat detection, resource optimization
 
-### 📊 Depression Detection Research 📄
+###  Depression Detection Research 
 > Published research on mental health detection in students
 - **Achievement:** 94.95% accuracy using XGBoost
 - **Dataset:** 1,977 student samples, 6-class classification
@@ -114,62 +110,58 @@
 
 ---
 
-## 🏆 Achievements & Highlights
+##  Achievements & Highlights
 
-🎓 **Senior Executive** - BRAC University Computer Club (2023)
+ **Senior Executive** - BRAC University Computer Club (2023)
 
-📝 **Published Researcher** - Depression Detection with 94.95% accuracy (2025)
+ **Published Researcher** - Depression Detection with 94.95% accuracy (2025)
 
-🤖 **Robotics Competition** - Inter-University Robotics Competition Participant (2020)
-
-🌟 **Academic Excellence** - Perfect GPA 5.0/5.0 in both HSC & SSC (2018, 2020)
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 [![Anik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=echo-anik&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=818CF8&point=E2E8F0)](https://github.com/echo-anik)
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-🔬 **Thesis Project:** Completing ML-Based IDS for IIoT research  
-📚 **Learning:** Advanced ML algorithms, IoT Security, Cloud Computing  
-🚀 **Building:** Scalable full-stack applications  
-🤝 **Contributing:** Open source projects in ML and web development
-
----
-
-## 💡 What I Do
-
-🌐 **Full Stack Development** - Building scalable applications from frontend to backend  
-🤖 **Machine Learning Research** - Implementing AI models for practical applications  
-🔒 **IoT Security** - Developing intrusion detection systems for industrial environments  
-📊 **Data Analysis** - Extracting insights from complex datasets  
-🎨 **UI/UX Design** - Creating intuitive and engaging user experiences  
+ **Learning:** Advanced ML algorithms, IoT Security, Cloud Computing  
+ **Building:** Scalable full-stack applications  
+ **Contributing:** Open source projects in ML and web development
 
 ---
 
-## 🎮 Beyond Code
+##  What I Do
+
+ **Full Stack Development** - Building scalable applications from frontend to backend  
+ **Machine Learning Research** - Implementing AI models for practical applications  
+ **IoT Security** - Developing intrusion detection systems for industrial environments  
+ **Data Analysis** - Extracting insights from complex datasets  
+ **UI/UX Design** - Creating intuitive and engaging user experiences  
+
+---
+
+##  Beyond Code
 
 When I'm not coding, you'll find me:
 
-⚽ Playing or watching **Football** - The beautiful game!  
-🎮 **Gaming** - Exploring virtual worlds and game mechanics  
-📚 **Reading** - Tech blogs, science fiction, and research papers  
-🌍 **Traveling** - Discovering new places and cultures  
-🔐 **Learning** - Always exploring new technologies and security concepts  
+ Playing or watching **Football** - The beautiful game!  
+ **Gaming** - Exploring virtual worlds and game mechanics  
+ **Reading** - Tech blogs, science fiction, Literatures and research papers  
+ **Traveling** - Discovering new places and cultures  
+ **Learning** - Always exploring new technologies and security concepts  
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm always interested in collaborating on exciting projects, especially those involving:
-- 🚀 Full Stack Web Development
-- 🤖 Machine Learning & AI
-- 🔒 Cyber Security & IoT
-- ⚽ Football-related technology
+-  Full Stack Web Development
+-  Machine Learning & AI
+-  Cyber Security & IoT
+-  Football-related technology
 
 <div align="center">
 
@@ -185,10 +177,8 @@ I'm always interested in collaborating on exciting projects, especially those in
 
 <div align="center">
 
-### 💬 "Building the future, one commit at a time" 🚀
-
 ![Profile Views](https://komarev.com/ghpvc/?username=echo-anik&color=6366f1&style=for-the-badge)
 
-**⭐ From [echo-anik](https://github.com/echo-anik)**
+** From [echo-anik](https://github.com/echo-anik)**
 
 </div>
